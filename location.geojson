@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.537108,
+                    25.066673,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "上引水產"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.529405,
+                    25.139221,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "川湯溫泉養生料理"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530112,
+                    25.033483,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "鼎泰豐(信義本店)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528902,
+                    25.138922,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "湯瀨溫泉SPA餐廳",
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=25138922,121528902,17850929152880555606&hl=en&gl=hk&ui=earth&view=teaser\";</script></body></html>",
+                "placepageUri": "http://maps.google.com/maps/place?latlng=25138922,121528902,17850929152880555606&hl=en&gl=hk&ui=earth&view=teaser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513933,
+                    25.042457,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "藝奇新日本料理(衡陽店)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506269,
+                    25.043557,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "熊一頂級燒肉料理(西門店)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524868,
+                    25.044297,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "阜杭豆漿",
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=25044297,121524868,1007076724459527171&hl=en&gl=hk&ui=earth&view=teaser\";</script></body></html>",
+                "placepageUri": "http://maps.google.com/maps/place?latlng=25044297,121524868,1007076724459527171&hl=en&gl=hk&ui=earth&view=teaser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512107,
+                    25.045968,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "一番地壽喜燒(台北店)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517081,
+                    25.047924,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "TEN屋 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558115,
+                    25.050808,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "夏慕尼新香榭鐵板燒"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.548448,
+                    25.043714,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "糖村"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518527,
+                    25.064147,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "維格餅家"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534685,
+                    25.061315,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "揚名烘焙坊"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.561486,
+                    25.051262,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "佳德糕餅"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509324,
+                    25.062178,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "江記華隆"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539392,
+                    25.041419,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "泉發蜂蜜"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.777923,
+                    24.830584,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "山泉大飯店",
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=24830584,121777923,5826853992806656536&hl=en&gl=hk&ui=earth&view=teaser\";</script></body></html>",
+                "placepageUri": "http://maps.google.com/maps/place?latlng=24830584,121777923,5826853992806656536&hl=en&gl=hk&ui=earth&view=teaser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.119628,
+                    22.913383,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "國際熱氣球嘉年華"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53361,
+                    25.062946,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "行天宮",
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=25062946,12153361,12737005530557890708&hl=en&gl=hk&ui=earth&view=teaser\";</script></body></html>",
+                "placepageUri": "http://maps.google.com/maps/place?latlng=25062946,12153361,12737005530557890708&hl=en&gl=hk&ui=earth&view=teaser"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.507737,
+                    25.045657,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "西門町"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.581608,
+                    24.999362,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "貓纜之眼水晶車廂\n",
+                "description": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=24999362,121581608,6175676201569360129&hl=en&gl=hk&ui=earth&view=teaser\";</script></body></html>",
+                "placepageUri": "http://maps.google.com/maps/place?latlng=24999362,121581608,6175676201569360129&hl=en&gl=hk&ui=earth&view=teaser"
+            }
+        }
+    ]
+}
