@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+  <name>Taiwan Trip</name>
+	<open>1</open>
+	<Folder>
+		<name>Food</name>
+		<open>1</open>
+		<Placemark id="21">
+			<name>上引水產</name>
+			<address>No. 18, Alley 2, Lane 410, Mínzú East Rd, Zhongshan District, Taipei City, Taiwan 104</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.537108,25.066673,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.53459,25.064155,0 121.53459,25.069191,0 121.539626,25.069191,0 121.539626,25.064155,0 121.53459,25.064155,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Zhongshan District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>行孝里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 18, Alley 2, Lane 410, Mínzú East Rd</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>104</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>川湯溫泉養生料理</name>
+			<address>No. 10, Lane 300, Xíngyì Rd, Beitou District, Taipei City, Taiwan 112</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.529405,25.139221,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.526887,25.136703,0 121.526887,25.141739,0 121.531923,25.141739,0 121.531923,25.136703,0 121.526887,25.136703,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Beitou District</LocalityName>
+                <Thoroughfare>
+                  <ThoroughfareName>No. 10, Lane 300, Xíngyì Rd</ThoroughfareName>
+                </Thoroughfare>
+                <PostalCode>
+                  <PostalCodeNumber>112</PostalCodeNumber>
+                </PostalCode>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>鼎泰豐(信義本店)</name>
+			<address>No. 194, Section 2, Xìnyì Rd, Daan District, Taipei City, Taiwan 106</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.530112,25.033483,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.527594,25.03096499999999,0 121.527594,25.036001,0 121.53263,25.036001,0 121.53263,25.03096499999999,0 121.527594,25.03096499999999,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Daan District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>福住里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 194, Section 2, Xìnyì Rd</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>106</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="22.1.2">
+			<name>湯瀨溫泉SPA餐廳</name>
+			<address>No. 1號, Lane 300, Xíngyì Road, Beitou District, Taipei City, Taiwan 112</address>
+			<phoneNumber>02-2876-0888</phoneNumber>
+			<snippet>No. 1號, Lane 300, Xíngyì Road, Beitou District, Taipei City, Taiwan 112</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=25138922,121528902,17850929152880555606&hl=en&gl=hk&ui=earth&view=teaser";</script></body></html>]]></description>
+			<styleUrl>#listing_A</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>http://maps.google.com/maps/place?latlng=25138922,121528902,17850929152880555606&amp;hl=en&amp;gl=hk&amp;ui=earth&amp;view=teaser</value>
+				</Data>
+			</ExtendedData>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.528902,25.138922,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.3621652,25.0377008,0 121.3621652,25.2401432,0 121.6956388,25.2401432,0 121.6956388,25.0377008,0 121.3621652,25.0377008,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Beitou District</LocalityName>
+                <Thoroughfare>
+                  <ThoroughfareName>No. 1號, Lane 300, Xíngyì Road</ThoroughfareName>
+                </Thoroughfare>
+                <PostalCode>
+                  <PostalCodeNumber>112</PostalCodeNumber>
+                </PostalCode>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>藝奇新日本料理(衡陽店)</name>
+			<address>No. 1, Héngyáng Rd, Zhongzheng District, Taipei City, Taiwan 100</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.513933,25.042457,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.511415,25.039939,0 121.511415,25.044975,0 121.516451,25.044975,0 121.516451,25.039939,0 121.511415,25.039939,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Zhongzheng District</LocalityName>
+                <Thoroughfare>
+                  <ThoroughfareName>No. 1, Héngyáng Rd</ThoroughfareName>
+                </Thoroughfare>
+                <PostalCode>
+                  <PostalCodeNumber>100</PostalCodeNumber>
+                </PostalCode>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>熊一頂級燒肉料理(西門店)</name>
+			<address>No. 155, Xiníng South Rd, Wanhua District, Taipei City, Taiwan 108</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.506269,25.043557,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.503751,25.041039,0 121.503751,25.046075,0 121.508787,25.046075,0 121.508787,25.041039,0 121.503751,25.041039,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Wanhua District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>西門里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 155, Xiníng South Rd</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>108</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="22.1.2">
+			<name>阜杭豆漿</name>
+			<address>2樓之28, No. 108號, Section 1, Zhōngxiào East Road, Zhongzheng District, Taipei City, Taiwan 100</address>
+			<phoneNumber>02-2392-2175</phoneNumber>
+			<snippet>2樓之28, No. 108號, Section 1, Zhōngxiào East Road, Zhongzheng District, Taipei City, Taiwan 100</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=25044297,121524868,1007076724459527171&hl=en&gl=hk&ui=earth&view=teaser";</script></body></html>]]></description>
+			<styleUrl>#listing_A</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>http://maps.google.com/maps/place?latlng=25044297,121524868,1007076724459527171&amp;hl=en&amp;gl=hk&amp;ui=earth&amp;view=teaser</value>
+				</Data>
+			</ExtendedData>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.524868,25.044297,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.3689608,24.9502086,0 121.3689608,25.1383854,0 121.6807752,25.1383854,0 121.6807752,24.9502086,0 121.3689608,24.9502086,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="9">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Zhongzheng District</LocalityName>
+                <Thoroughfare>
+                  <ThoroughfareName>No. 108號, Section 1, Zhōngxiào East Road</ThoroughfareName>
+                  <Premise>
+                    <PremiseName>2樓之28</PremiseName>
+                  </Premise>
+                </Thoroughfare>
+                <PostalCode>
+                  <PostalCodeNumber>100</PostalCodeNumber>
+                </PostalCode>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>一番地壽喜燒(台北店)</name>
+			<address>100, Taiwan, Taipei City, Zhongzheng District, 開封街一段48號</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.512107,25.045968,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.509589,25.04345,0 121.509589,25.048486,0 121.514625,25.048486,0 121.514625,25.04345,0 121.509589,25.04345,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Zhongzheng District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>光復里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 48, 開封街一段</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>100</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>TEN屋 </name>
+			<address>No. 3, Běipíng West Rd, Zhongzheng District, Taipei City, Taiwan 100</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.517081,25.047924,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.514563,25.045406,0 121.514563,25.050442,0 121.519599,25.050442,0 121.519599,25.045406,0 121.514563,25.045406,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Zhongzheng District</LocalityName>
+                <Thoroughfare>
+                  <ThoroughfareName>No. 3, Běipíng West Rd</ThoroughfareName>
+                </Thoroughfare>
+                <PostalCode>
+                  <PostalCodeNumber>100</PostalCodeNumber>
+                </PostalCode>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>夏慕尼新香榭鐵板燒</name>
+			<address>No. 95, Guāngfù North Rd, Songshan District, Taipei City, Taiwan 105</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.558115,25.050808,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.555597,25.04829,0 121.555597,25.053326,0 121.560633,25.053326,0 121.560633,25.04829,0 121.555597,25.04829,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Songshan District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>復勢里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 95, Guāngfù North Rd</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>105</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Gift</name>
+		<Placemark id="21">
+			<name>糖村</name>
+			<address>No. 158, Section 1, Dūnhuà South Rd, Daan District, Taipei City, Taiwan 106</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.548448,25.043714,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.54593,25.041196,0 121.54593,25.046232,0 121.550966,25.046232,0 121.550966,25.041196,0 121.54593,25.041196,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Daan District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>光武里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 158, Section 1, Dūnhuà South Rd</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>106</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>維格餅家</name>
+			<address>No. 27, Section 3, Chéngdé Rd, Datong District, Taipei City, Taiwan 103</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.518527,25.064147,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.516009,25.061629,0 121.516009,25.066665,0 121.521045,25.066665,0 121.521045,25.061629,0 121.516009,25.061629,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Datong District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>蓬萊里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 27, Section 3, Chéngdé Rd</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>103</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>揚名烘焙坊</name>
+			<address>No. 8, Lane 152, Section 2, Mínquán East Rd, Zhongshan District, Taipei City, Taiwan 104</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.534685,25.061315,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.532167,25.058797,0 121.532167,25.063833,0 121.537203,25.063833,0 121.537203,25.058797,0 121.532167,25.058797,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Zhongshan District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>松江里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 8, Lane 152, Section 2, Mínquán East Rd</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>104</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>佳德糕餅</name>
+			<address>No. 88, Section 5, Nánjīng East Rd, Songshan District, Taipei City, Taiwan 105</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.561486,25.051262,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.558968,25.048744,0 121.558968,25.05378,0 121.564004,25.05378,0 121.564004,25.048744,0 121.558968,25.048744,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Songshan District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>吉祥里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 88, Section 5, Nánjīng East Rd</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>105</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>江記華隆</name>
+			<address>103, Taiwan, Taipei City, Datong District, 迪化街一段311號</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.509324,25.062178,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.506806,25.05966,0 121.506806,25.064696,0 121.511842,25.064696,0 121.511842,25.05966,0 121.506806,25.05966,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Datong District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>南芳里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 311, 迪化街一段</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>103</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>泉發蜂蜜</name>
+			<address>No. 196, Section 3, Zhōngxiào East Rd, Daan District, Taipei City, Taiwan 106</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.539392,25.041419,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.536874,25.038901,0 121.536874,25.043937,0 121.54191,25.043937,0 121.54191,25.038901,0 121.536874,25.038901,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Daan District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>義村里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 196, Section 3, Zhōngxiào East Rd</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>106</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Sightseeing</name>
+		<Placemark id="21.1.3">
+			<name>山泉大飯店</name>
+			<address>No. 36, Section 6, Jiāoxī Road, Jiaoxi Township, Yilan County, Taiwan 262</address>
+			<phoneNumber>03-988-7979</phoneNumber>
+			<snippet>No. 36, Section 6, Jiāoxī Road, Jiaoxi Township, Yilan County, Taiwan 262</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=24830584,121777923,5826853992806656536&hl=en&gl=hk&ui=earth&view=teaser";</script></body></html>]]></description>
+			<styleUrl>#listing_A</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>http://maps.google.com/maps/place?latlng=24830584,121777923,5826853992806656536&amp;hl=en&amp;gl=hk&amp;ui=earth&amp;view=teaser</value>
+				</Data>
+			</ExtendedData>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.777923,24.830584,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.765117,24.8224828,0 121.765117,24.8386852,0 121.790729,24.8386852,0 121.790729,24.8224828,0 121.765117,24.8224828,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Yilan County</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Jiaoxi Township</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>玉石村</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 36, Section 6, Jiāoxī Road</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>262</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>國際熱氣球嘉年華</name>
+			<address>No. 145, Lane 42, Gāotái Rd, Luye Township, Taitung County, Taiwan 955</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.119628,22.913383,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.11711,22.910865,0 121.11711,22.915901,0 121.122146,22.915901,0 121.122146,22.910865,0 121.11711,22.910865,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taitung County</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Luye Township</LocalityName>
+                <Thoroughfare>
+                  <ThoroughfareName>No. 145, Lane 42, Gāotái Rd</ThoroughfareName>
+                </Thoroughfare>
+                <PostalCode>
+                  <PostalCodeNumber>955</PostalCodeNumber>
+                </PostalCode>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21.1.3">
+			<name>行天宮</name>
+			<address>No. 109, Section 2, Mínquán East Road, Zhongshan District, Taipei City, Taiwan 104</address>
+			<phoneNumber>02-2502-7924</phoneNumber>
+			<snippet>No. 109, Section 2, Mínquán East Road, Zhongshan District, Taipei City, Taiwan 104</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=25062946,12153361,12737005530557890708&hl=en&gl=hk&ui=earth&view=teaser";</script></body></html>]]></description>
+			<styleUrl>#listing_A</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>http://maps.google.com/maps/place?latlng=25062946,12153361,12737005530557890708&amp;hl=en&amp;gl=hk&amp;ui=earth&amp;view=teaser</value>
+				</Data>
+			</ExtendedData>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.53361,25.062946,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.531092,25.060428,0 121.531092,25.065464,0 121.536128,25.065464,0 121.536128,25.060428,0 121.531092,25.060428,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Zhongshan District</LocalityName>
+                <DependentLocality>
+                  <DependentLocalityName>行政里</DependentLocalityName>
+                  <Thoroughfare>
+                    <ThoroughfareName>No. 109, Section 2, Mínquán East Road</ThoroughfareName>
+                  </Thoroughfare>
+                  <PostalCode>
+                    <PostalCodeNumber>104</PostalCodeNumber>
+                  </PostalCode>
+                </DependentLocality>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="21">
+			<name>西門町</name>
+			<address>Shi-men Ting, Taipei City, Taiwan 108</address>
+			<styleUrl>#geocode</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.507737,25.045657,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						121.5038062,25.0424122,0 121.5038062,25.0489018,0 121.5116678,25.0489018,0 121.5116678,25.0424122,0 121.5038062,25.0424122,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="1">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AddressLine>Shi-men Ting</AddressLine>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+		<Placemark id="22.1.2">
+			<name>貓纜之眼水晶車廂
+</name>
+			<address>No. 30號, Section 2, Xīnguāng Road, Wenshan District, Taipei City, Taiwan</address>
+			<phoneNumber>02-2181-2345</phoneNumber>
+			<snippet>No. 30號, Section 2, Xīnguāng Road, Wenshan District, Taipei City, Taiwan</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="http://maps.google.com/maps/place?latlng=24999362,121581608,6175676201569360129&hl=en&gl=hk&ui=earth&view=teaser";</script></body></html>]]></description>
+			<styleUrl>#listing_A</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>http://maps.google.com/maps/place?latlng=24999362,121581608,6175676201569360129&amp;hl=en&amp;gl=hk&amp;ui=earth&amp;view=teaser</value>
+				</Data>
+			</ExtendedData>
+			<MultiGeometry>
+				<Point>
+					<coordinates>121.581608,24.999362,0</coordinates>
+				</Point>
+				<LinearRing>
+					<coordinates>
+						120.815092,24.53535,0 120.815092,25.463374,0 122.348124,25.463374,0 122.348124,24.53535,0 120.815092,24.53535,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+			<AddressDetails xmlns="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" Accuracy="8">
+          <Country>
+            <CountryNameCode>TW</CountryNameCode>
+            <AdministrativeArea>
+              <AdministrativeAreaName>Taipei City</AdministrativeAreaName>
+              <Locality>
+                <LocalityName>Wenshan District</LocalityName>
+                <Thoroughfare>
+                  <ThoroughfareName>No. 30號, Section 2, Xīnguāng Road</ThoroughfareName>
+                </Thoroughfare>
+              </Locality>
+            </AdministrativeArea>
+          </Country>
+        </AddressDetails>
+		</Placemark>
+	</Folder>
+</Folder>
+</kml>
